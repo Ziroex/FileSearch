@@ -1,0 +1,8 @@
+C:\Users\dagor\OneDrive\Рабочий стол\FileSearcher\FileSearcher\bin\Debug\FileSearcher.exe
+C:\Users\dagor\OneDrive\Рабочий стол\FileSearcher\FileSearcher\bin\Debug\FileSearcher.pdb
+C:\Users\dagor\OneDrive\Рабочий стол\FileSearcher\FileSearcher\obj\Debug\FileSearcher.csprojAssemblyReference.cache
+C:\Users\dagor\OneDrive\Рабочий стол\FileSearcher\FileSearcher\obj\Debug\FileSearcher.MainWindow.resources
+C:\Users\dagor\OneDrive\Рабочий стол\FileSearcher\FileSearcher\obj\Debug\FileSearcher.Properties.Resources.resources
+C:\Users\dagor\OneDrive\Рабочий стол\FileSearcher\FileSearcher\obj\Debug\FileSearcher.csproj.GenerateResource.cache
+C:\Users\dagor\OneDrive\Рабочий стол\FileSearcher\FileSearcher\obj\Debug\FileSearcher.exe
+C:\Users\dagor\OneDrive\Рабочий стол\FileSearcher\FileSearcher\obj\Debug\FileSearcher.pdb
